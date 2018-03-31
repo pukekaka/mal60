@@ -4,14 +4,14 @@
 
 Mal60 dataset consists of each 20 samples from 60 different malware families.
 
-To load Mal60 dataset, refer to load() from [this link] (https://github.com/pukekaka/mal_classification_mann/blob/master/preprocess/mal60.py)
+To load Mal60 dataset, refer to load() from [this link](/mal_classification_mann/blob/master/preprocess/mal60.py)
 
 
 
 * Labels
 
-![Alt text](https://github.com/pukekaka/mal60/tree/master/images/Labels.jpg)
+![Alt text](./images/Labels.jpg)
 
 * Visualization samples
 
-![Alt text](https://github.com/pukekaka/mal60/tree/master/images/Visualization_Samples.jpg)
+![Alt text](./images/Visualization_Samples.jpg)
